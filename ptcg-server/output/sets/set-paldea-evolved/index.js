@@ -35,6 +35,7 @@ const jet_energy_1 = require("./jet-energy");
 const lokix_1 = require("./lokix");
 const luminous_energy_1 = require("./luminous-energy");
 const luxray_1 = require("./luxray");
+const lycanroc_ex_1 = require("./lycanroc-ex");
 const magnemite_1 = require("./magnemite");
 const meowscarada_ex_1 = require("./meowscarada-ex");
 const mimikyu_1 = require("./mimikyu");
@@ -49,6 +50,7 @@ const pelipper_1 = require("./pelipper");
 const pineco_1 = require("./pineco");
 const practice_studio_1 = require("./practice-studio");
 const reversal_energy_1 = require("./reversal-energy");
+const rockruff_1 = require("./rockruff");
 const shinx_1 = require("./shinx");
 const spiritomb_1 = require("./spiritomb");
 const sprigatito_1 = require("./sprigatito");
@@ -124,6 +126,7 @@ exports.setPaldeaEvolved = [
     new lokix_1.Lokix(),
     new luminous_energy_1.LuminousEnergy(),
     new luxray_1.Luxray(),
+    new lycanroc_ex_1.Lycanrocex(),
     new magnemite_1.Magnemite(),
     new meowscarada_ex_1.Meowscaradaex(),
     new mimikyu_1.Mimikyu(),
@@ -137,6 +140,7 @@ exports.setPaldeaEvolved = [
     new pineco_1.Pineco(),
     new practice_studio_1.PracticeStudio(),
     new reversal_energy_1.ReversalEnergy(),
+    new rockruff_1.Rockruff(),
     new shinx_1.Shinx(),
     new spiritomb_1.Spiritomb(),
     new sprigatito_1.Sprigatito(),

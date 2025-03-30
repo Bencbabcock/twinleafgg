@@ -33,6 +33,7 @@ import { JetEnergy } from './jet-energy';
 import { Lokix } from './lokix';
 import { LuminousEnergy } from './luminous-energy';
 import { Luxray } from './luxray';
+import { Lycanrocex } from './lycanroc-ex';
 import { Magnemite } from './magnemite';
 import { Meowscaradaex } from './meowscarada-ex';
 import { Mimikyu } from './mimikyu';
@@ -47,6 +48,7 @@ import { Pelipper } from './pelipper';
 import { Pineco } from './pineco';
 import { PracticeStudio } from './practice-studio';
 import { ReversalEnergy } from './reversal-energy';
+import { Rockruff } from './rockruff';
 import { Shinx } from './shinx';
 import { Spiritomb } from './spiritomb';
 import { Sprigatito } from './sprigatito';
@@ -124,6 +126,7 @@ export const setPaldeaEvolved: Card[] = [
   new Lokix(),
   new LuminousEnergy(),
   new Luxray(),
+  new Lycanrocex(),
   new Magnemite(),
   new Meowscaradaex(),
   new Mimikyu(),
@@ -137,6 +140,7 @@ export const setPaldeaEvolved: Card[] = [
   new Pineco(),
   new PracticeStudio(),
   new ReversalEnergy(),
+  new Rockruff(),
   new Shinx(),
   new Spiritomb(),
   new Sprigatito(),
