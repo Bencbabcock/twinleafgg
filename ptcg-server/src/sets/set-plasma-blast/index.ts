@@ -11,6 +11,7 @@ import { Sigilyph } from './sigilyph';
 import { SilverBangle } from './silver-bangle';
 import { SilverMirror } from './silver-mirror';
 import { Suicune } from './suicune';
+import { Tirtouga } from './tirtouga';
 import { VirizionEX } from './virizion-ex';
 import { Wartortle } from './wartortle';
 
@@ -26,6 +27,7 @@ export const setPlasmaBlast: Card[] = [
   new SilverBangle(),
   new SilverMirror(),
   new Suicune(),
+  new Tirtouga(),
   new VirizionEX(),
   new Wartortle(),
 
